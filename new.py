@@ -1,8 +1,12 @@
+"""
+This module contains a simple hello function.
+"""
+
 def hello():
     """
-    this is demo
+    This is a demo function.
     """
-    return("hello_sachin")
+    return "hello_sachin"
 
 
 hello()
